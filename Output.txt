@@ -1,0 +1,84 @@
+
+C:\Users\macha\OneDrive\Desktop\Expense_tracker_project-3MC>java Main
+No previous data found. Starting fresh.
+1. Register
+2. Login
+3. Add Expense
+4. List Expenses
+5. Summarize Expenses by Category
+6. Exit
+Choose an option: 1
+Enter username: deepak@123
+Enter password: ExCrack@24
+User registered successfully.
+1. Register
+2. Login
+3. Add Expense
+4. List Expenses
+5. Summarize Expenses by Category
+6. Exit
+Choose an option: 2
+Enter username: deepak@123
+Enter password: ExCrack@24
+User authenticated successfully.
+1. Register
+2. Login
+3. Add Expense
+4. List Expenses
+5. Summarize Expenses by Category
+6. Exit
+Choose an option: 3
+Enter date (YYYY-MM-DD): 2024-01-21
+Enter category: clothes
+Enter amount: 2096
+Expense added successfully.
+1. Register
+2. Login
+3. Add Expense
+4. List Expenses
+5. Summarize Expenses by Category
+6. Exit
+Choose an option: 3
+Enter date (YYYY-MM-DD): 2024-02-24
+Enter category: books
+Enter amount: 3982
+Expense added successfully.
+1. Register
+2. Login
+3. Add Expense
+4. List Expenses
+5. Summarize Expenses by Category
+6. Exit
+Choose an option: 3
+Enter date (YYYY-MM-DD): 2024-04-28
+Enter category: accessories
+Enter amount: 2945
+Expense added successfully.
+1. Register
+2. Login
+3. Add Expense
+4. List Expenses
+5. Summarize Expenses by Category
+6. Exit
+Choose an option: 4
+21-01-2024 Sunday - Category: clothes, Amount: 2096.0
+24-02-2024 Saturday - Category: books, Amount: 3982.0
+28-04-2024 Sunday - Category: accessories, Amount: 2945.0
+1. Register
+2. Login
+3. Add Expense
+4. List Expenses
+5. Summarize Expenses by Category
+6. Exit
+Choose an option: 5
+books: 3982.0
+accessories: 2945.0
+clothes: 2096.0
+1. Register
+2. Login
+3. Add Expense
+4. List Expenses
+5. Summarize Expenses by Category
+6. Exit
+Choose an option: 6
+Data saved successfully.
